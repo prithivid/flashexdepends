@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-loadbalancer/tripplanning-loadbalancer.iml" filepath="$PROJECT_DIR$/tripplanning-loadbalancer/tripplanning-loadbalancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-microservice.iml" filepath="$PROJECT_DIR$/tripplanning-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-lib/tripplanning-microservice-lib.iml" filepath="$PROJECT_DIR$/tripplanning-lib/tripplanning-microservice-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-worker-service/tripplanning-microservice-worker-service.iml" filepath="$PROJECT_DIR$/tripplanning-worker-service/tripplanning-microservice-worker-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-web-service/tripplanning-web-service.iml" filepath="$PROJECT_DIR$/tripplanning-web-service/tripplanning-web-service.iml" />
+    </modules>
+  </component>
+</project>

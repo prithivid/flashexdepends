@@ -1,0 +1,13 @@
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/config/SwaggerConfig.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/services/ShipmentService.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/services/PacketService.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/BinnerConfig.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/services/BinningService.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/repository/PacketRepository.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/Shipment.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/DeliveryAddress.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/Packet.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/repository/ShipmentRepository.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/Bin.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/config/CassandraConfiguration.java
+/home/test12/Desktop/Project/flashexplatform/shipment-ms/shipment-lib/src/main/java/com/flashex/shipmentmicroservice/lib/model/Customer.java

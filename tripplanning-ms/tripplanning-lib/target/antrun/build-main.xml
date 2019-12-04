@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<project name="maven-antrun-" default="main"  >
-<target name="main">
-  <copy file="target/tripplanning-microservice-lib-0.0.1-SNAPSHOT.jar" tofile="../tripplanning-web-service/src/main/resources/lib/tripplanning-microservice-lib-0.0.1-SNAPSHOT.jar"/>
-  <copy file="target/tripplanning-microservice-lib-0.0.1-SNAPSHOT.jar" tofile="../tripplanning-worker-service/src/main/resources/lib/tripplanning-microservice-lib-0.0.1-SNAPSHOT.jar"/>
-</target>
-</project>

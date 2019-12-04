@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-worker-service/order-microservice-worker-service.iml" filepath="$PROJECT_DIR$/order-worker-service/order-microservice-worker-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipment-loadbalancer/shipment-loadbalancer.iml" filepath="$PROJECT_DIR$/shipment-loadbalancer/shipment-loadbalancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipment-microservice.iml" filepath="$PROJECT_DIR$/shipment-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipment-lib/shipment-microservice-lib.iml" filepath="$PROJECT_DIR$/shipment-lib/shipment-microservice-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipment-web-service/shipment-microservice-web-service.iml" filepath="$PROJECT_DIR$/shipment-web-service/shipment-microservice-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipment-worker-service/shipment-microservice-worker-service.iml" filepath="$PROJECT_DIR$/shipment-worker-service/shipment-microservice-worker-service.iml" />
+    </modules>
+  </component>
+</project>
