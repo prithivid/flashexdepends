@@ -38,12 +38,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.flashex</groupId>
-			<artifactId>shipment-microservice-lib</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>

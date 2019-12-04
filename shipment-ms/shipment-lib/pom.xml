@@ -83,53 +83,6 @@
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
 				<version>2.6</version>
-				<executions>
-					<execution>
-						<id>copy-to-order-worker</id>
-						<phase>install</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.basedir}/../order-worker-service/src/main/resources/repo/com/flashex/shipment-microservice-lib/</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${user.home}/.m2/repository/com/flashex/shipment-microservice-lib/</directory>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-                    <execution>
-                        <id>copy-to-shipment-worker</id>
-                        <phase>install</phase>
-                        <goals>
-                            <goal>copy-resources</goal>
-                        </goals>
-                        <configuration>
-                            <outputDirectory>${project.basedir}/../shipment-worker-service/src/main/resources/repo/com/flashex/shipment-microservice-lib/</outputDirectory>
-                            <resources>
-                                <resource>
-                                    <directory>${user.home}/.m2/repository/com/flashex/shipment-microservice-lib/</directory>
-                                </resource>
-                            </resources>
-                        </configuration>
-                    </execution>
-					<execution>
-						<id>copy-to-web</id>
-						<phase>install</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.basedir}/../shipment-web-service/src/main/resources/repo/com/flashex/shipment-microservice-lib/</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${user.home}/.m2/repository/com/flashex/shipment-microservice-lib</directory>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-				</executions>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

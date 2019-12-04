@@ -38,12 +38,6 @@
 			<version>1.1.1</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.google.ortools</groupId>
-			<artifactId>com.google.ortools</artifactId>
-			<version>7.4.7</version>
-		</dependency>
-
 		<!-- https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java -->
 		<dependency>
 			<groupId>com.google.protobuf</groupId>
@@ -132,39 +126,7 @@
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
 				<version>2.6</version>
-				<executions>
-					<execution>
-						<id>copy-to-worker</id>
-						<phase>install</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.basedir}/../tripplanning-worker-service/src/main/resources/repo/com/flashex/tripplanning-microservice-lib/</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${user.home}/.m2/repository/com/flashex/tripplanning-microservice-lib/</directory>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-					<execution>
-						<id>copy-to-web</id>
-						<phase>install</phase>
-						<goals>
-							<goal>copy-resources</goal>
-						</goals>
-						<configuration>
-							<outputDirectory>${project.basedir}/../tripplanning-web-service/src/main/resources/repo/com/flashex/tripplanning-microservice-lib/</outputDirectory>
-							<resources>
-								<resource>
-									<directory>${user.home}/.m2/repository/com/flashex/tripplanning-microservice-lib/</directory>
-								</resource>
-							</resources>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
+      </plugin>
 		</plugins>
 	</build>
 
