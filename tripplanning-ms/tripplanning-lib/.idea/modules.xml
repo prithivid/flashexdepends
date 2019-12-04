@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sample-microservice-lib.iml" filepath="$PROJECT_DIR$/sample-microservice-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tripplanning-microservice-lib.iml" filepath="$PROJECT_DIR$/tripplanning-microservice-lib.iml" />
     </modules>
   </component>
 </project>

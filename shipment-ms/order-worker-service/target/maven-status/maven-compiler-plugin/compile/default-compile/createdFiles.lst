@@ -1,0 +1,4 @@
+com/flashex/ordercollector/messagingservice/ConsumerService.class
+com/flashex/ordercollector/controllers/SampleController.class
+com/flashex/ordercollector/messagingservice/ProducerService.class
+com/flashex/ordercollector/OrderCollectionApp.class
