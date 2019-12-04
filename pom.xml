@@ -63,7 +63,7 @@
 
     <modules>
         <module>common-ms</module>
-        <module>order-ms</module>
+        <module>shipment-ms</module>
         <module>tripplanning-ms</module>
         <module>triptracking-ms</module>
         <module>user-ms</module>
