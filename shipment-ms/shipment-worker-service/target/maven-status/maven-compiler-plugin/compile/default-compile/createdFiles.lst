@@ -1,0 +1,5 @@
+com/flashex/shipmentmicroservice/workerservice/controllers/SampleController.class
+com/flashex/shipmentmicroservice/workerservice/schedules/ShipmentGeneration.class
+com/flashex/shipmentmicroservice/workerservice/messagingservice/ConsumerService.class
+com/flashex/shipmentmicroservice/workerservice/messagingservice/ProducerService.class
+com/flashex/shipmentmicroservice/workerservice/ShipmentGeneratorApp.class
